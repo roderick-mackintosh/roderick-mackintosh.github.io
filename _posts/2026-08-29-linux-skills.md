@@ -107,7 +107,6 @@ Tools like `nslookup` is useful for querying DNS
 
 Linux storage is often managed with LVM (Logical Volume Manager), which adds a flexible layer on top of raw disks. A physical volume (PV) is a disk or partition initialized for use by LVM, one or more physical volumes are combined into a volume group (VG), and space from that volume group is then carved out into logical volumes (LVs) that behave like regular partitions but can be resized more easily. Once a logical volume exists, it needs to be formatted with a file system before it can store data - common choices include XFS, which is the default on many RedHat/CentOS systems and handles large files well, and ext4, a widely used and reliable general-purpose file system.
 
-[LVM](https://miro.medium.com/v2/resize:fit:1236/format:webp/1*aVt2jO1p5vzYBEQGnGxEaw.png)
-
+![LVM diagram](https://miro.medium.com/v2/resize:fit:1236/format:webp/1*aVt2jO1p5vzYBEQGnGxEaw.png)
 
 These skills have evolved through years of solving real problems in production environments, and I'll continue sharing specific examples and solutions as I encounter them.
