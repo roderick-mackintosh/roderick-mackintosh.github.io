@@ -6,6 +6,8 @@ excerpt_separator:  <!--more-->
 
 Over the years working in IT Operations and System Administration, I've built up scripting skills with Bash and Powershell that come in handy day to day. Here's a rundown of the areas I rely on most.
 
+<!--more-->
+
 ## PowerShell
 
 ### PowerShell Data Types

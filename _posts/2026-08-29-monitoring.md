@@ -4,6 +4,10 @@ title: Monitoring
 excerpt_separator:  <!--more-->
 ---
 
+Some key take away on observability and monitoring
+
+<!--more-->
+
 ### The 3 Pillars of Monitoring
 
 Observability is often broken down into three pillars that together give a full picture of a system's health:
