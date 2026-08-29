@@ -82,7 +82,7 @@ Registry keys can also be queried and modified from PowerShell.
 
 Task Manager (`taskmgr`) is the go-to tool for a quick view of what's running on a server and how it's affecting performance.
 
-![Task Manager](https://www.top-password.com/blog/wp-content/uploads/2019/09/task-manager-details.png)
+![Task Manager](https://www.pcworld.com/wp-content/uploads/2025/06/Task-Manager-performance-tab-overview-screenshot.jpg?quality=50&strip=all)
 
 Its tabs cover the areas most commonly checked when troubleshooting:
 
