@@ -49,4 +49,5 @@ Observability is often broken down into three pillars that together give a full 
 1. **Collection** - Agents are installed on the servers to collect metrics and log details (e.g. Splunk agents, or Metricbeat/Filebeat agents).
 2. **Processing** - The collected data is sent, possibly enriched, and stored.
 3. **Visualization** - The data is viewed, queried, and displayed using dashboards.
+4. **Alerting** - Thresholds or conditions trigger alerts, notifying the right people by email or PagerDuty.
 
